@@ -81,6 +81,7 @@ nav img {
 .nav-link:hover {
   background-color: #1e1e30;
   color: #2d2d4a;
+    cursor: url('/assets/select.cur'), auto;
 }
 
 nav h1 {
