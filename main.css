@@ -160,16 +160,11 @@ nav h1 {
     transition: transform .2s;
 }
 
- #games img {
-  position: relative;
-  display: inline-block;
-  margin: 5px;
-}
  
 #games img:hover {
     transform: scale(1.01);
     border-color: #7a7a9e;
-  border-radius: 5px;
+  border-radius: 0.26vw;
 }
 
 .featured {
