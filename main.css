@@ -162,6 +162,8 @@ nav h1 {
  
 #games img:hover {
     transform: scale(1.01);
+    border-color: #7a7a9e;
+  border-radius: 5px;
 }
 
 .featured {
