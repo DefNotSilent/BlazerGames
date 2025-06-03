@@ -167,7 +167,7 @@ nav h1 {
     transform: scale(1.01);
     border-color: #7a7a9e;
   border-radius: 0.26vw;
-    cursor: url('/assets/blue.ani'), auto;
+    cursor: url('/assets/select.cur'), auto;
 }
 
 .featured {
