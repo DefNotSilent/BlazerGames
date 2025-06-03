@@ -153,7 +153,7 @@ nav h1 {
  
 #games img {    height: 15.6vw;
     width: 15.6vw;
-    border-radius: 5vw;
+    border-radius: 1vw;
     margin: .5vw;
     cursor: pointer;
     user-select: none;
