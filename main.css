@@ -137,7 +137,7 @@ nav h1 {
     font-size: 1.5vw;
     font-weight: 600;
     padding: 0.8vw 1vw;
-    cursor: pointer;
+    cursor: url('/assets/blue.cur'), auto;
     font-family: 'Montserrat', sans-serif;
     z-index: 1;
     transition: .3s all ease;
@@ -149,6 +149,7 @@ nav h1 {
     justify-content: center;
     margin-top: .6vw;
     padding-bottom: 5vw;
+    cursor: url('/assets/blue.ani'), auto;
 
 }
  
@@ -166,6 +167,7 @@ nav h1 {
     transform: scale(1.01);
     border-color: #7a7a9e;
   border-radius: 0.26vw;
+    cursor: url('/assets/blue.ani'), auto;
 }
 
 .featured {
