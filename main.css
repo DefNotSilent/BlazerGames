@@ -3,7 +3,7 @@
 body {
     background-color: #171722;
     font-family: 'Montserrat', sans-serif;
-    cursor: url('/assets/blue.cur'), auto;
+    cursor: url('/assets/normal.cur'), auto;
 }
 
 nav {
@@ -138,7 +138,7 @@ nav h1 {
     font-size: 1.5vw;
     font-weight: 600;
     padding: 0.8vw 1vw;
-    cursor: url('/assets/blue.cur'), auto;
+    cursor: url('/assets/normal.cur'), auto;
     font-family: 'Montserrat', sans-serif;
     z-index: 1;
     transition: .3s all ease;
@@ -150,7 +150,7 @@ nav h1 {
     justify-content: center;
     margin-top: .6vw;
     padding-bottom: 5vw;
-    cursor: url('/assets/blue.ani'), auto;
+    cursor: url('/assets/normal.cur'), auto;
 
 }
  
