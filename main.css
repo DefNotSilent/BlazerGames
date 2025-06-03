@@ -208,6 +208,8 @@ nav h1 {
 .featured img:hover {
     transform: scale(1.02);
     filter: brightness(50%);
+cursor: url('/assets/select.cur'), auto;
+
 }
 
 
