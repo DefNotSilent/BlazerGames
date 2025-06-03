@@ -31,6 +31,32 @@ nav img {
     box-shadow: 5px 5px 10px rgba(53, 53, 53, 0.459);
 }
 
+.navbar-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10000;
+  background-color: var(--navbar-bg);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  max-width: none;
+  margin: 0;
+}
+
+.nav-logo {
+  display: flex;
+  align-items: center;
+  margin-left: 0;
+}
+
+
 .nav-links {
   display: flex;
   gap: 5px;
