@@ -229,7 +229,7 @@ nav h1 {
   top: 40px;
   bottom: 40px;
   color: #FFFFFF;
-  font-family: Phonk;
+  font-family: title;
   font-size: 75px;
   text-align: center;
   position: relative;
@@ -240,12 +240,19 @@ nav h1 {
 }
 
 .smallahhtext, #output {
-  color: #FFFFFF;
-  font-family: Neutro-Medium;
+  color: #FFFFF;
+  font-family: notitle;
   font-size: 30px;
   text-align: center;
 }
 
+.motd {
+  margin-bottom: -20px;
+  color: #FFFFF;
+  font-family: notitle;
+  font-size: 45px;
+  text-align: center;
+}
 .featured {
     display: flex;
     flex-direction: row;
