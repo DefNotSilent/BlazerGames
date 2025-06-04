@@ -225,6 +225,20 @@ nav h1 {
     cursor: url('/assets/select.cur'), auto;
 }
 
+#title, .hometitle {
+  top: 40px;
+  bottom: 40px;
+  color: var(--text-white);
+  font-family: title;
+  font-size: 75px;
+  text-align: center;
+  position: relative;
+}
+
+.hometitle {
+  margin-top: 20vh;
+}
+
 .smallahhtext, #output {
   color: #FFFFFF;
   font-family: notitle;
