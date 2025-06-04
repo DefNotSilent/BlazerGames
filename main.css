@@ -328,3 +328,15 @@ cursor: url('/assets/select.cur'), auto;
 .header-info h1 {
       font-size: 1em;
   }
+
+
+
+@font-face {
+  font-family: notitle;
+  src: url(assets/RedditSans-Medium.ttf);
+}
+
+@font-face {
+  font-family: title;
+  src: url(assets/ClashDisplayBold.otf)
+}
