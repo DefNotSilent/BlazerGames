@@ -12,16 +12,20 @@ document.addEventListener('DOMContentLoaded', function() {
         "contains no sugar!",
         "the fog is coming, august 31st 2026",
         "goonicide before gta 6 is wild 😭🙏",
-        "i cant put down the netcup, i cant put down the netcup",
+        "i cant put down the cup, i cant put down the cup",
         "can we all agree to start dabbing again in 2025? DATTEBYO!",
         "ts ste lwk pmo ngl lke icl ts ste is so bns ddss nt gnna us ts",
         "BOIII THIS SITE SO FRIGGIN TOUGH 🤣🫱",
         "instead of handing them a freaking packet, yo",
         "808 = essentially a crashout",
+        "I'm actually sped - said The Fat Pig",
         "geeked vs locked in",
+        "Mason A Fat Pig",
+        "Website Friggin Tuff Yo",
         "\"if gravity can pull an apple, then you can pull a bad bih too\". - isacc newton",
         "best website for the unemployed",
         "gurt: yo",
+        "Szvy On Top",
         "fly high wifiskeleton, may he rest in peace 🕊️"
     ];
 
