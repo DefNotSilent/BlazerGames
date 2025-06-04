@@ -225,6 +225,13 @@ nav h1 {
     cursor: url('/assets/select.cur'), auto;
 }
 
+.smallahhtext, #output {
+  color: #FFFFFF;
+  font-family: notitle;
+  font-size: 30px;
+  text-align: center;
+}
+
 .featured {
     display: flex;
     flex-direction: row;
