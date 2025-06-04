@@ -228,8 +228,8 @@ nav h1 {
 #title, .hometitle {
   top: 40px;
   bottom: 40px;
-  color: var(--text-white);
-  font-family: title;
+  color: #FFFFFF;
+  font-family: Phonk;
   font-size: 75px;
   text-align: center;
   position: relative;
@@ -241,7 +241,7 @@ nav h1 {
 
 .smallahhtext, #output {
   color: #FFFFFF;
-  font-family: notitle;
+  font-family: Neutro-Medium;
   font-size: 30px;
   text-align: center;
 }
