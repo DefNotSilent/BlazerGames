@@ -288,3 +288,13 @@ cursor: url('/assets/select.cur'), auto;
     font-size: 5vw;
     text-shadow: 0 0 100px #2c7ffc;
     }
+
+    .header-info h1 {
+  font-size: 1.2em;
+  font-weight: 600;
+  color: var(--text-white);
+}
+
+.header-info h1 {
+      font-size: 1em;
+  }
