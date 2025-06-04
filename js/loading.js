@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const h1Element = document.getElementById('ld');
 
     const headings = [
-        "frogies arcade goated",
+        "Completely free",
         "new update when yeat drops",
         "remember to follow the tiktok @refinedsilent",
         "booyah!",
@@ -22,9 +22,11 @@ document.addEventListener('DOMContentLoaded', function() {
         "geeked vs locked in",
         "Mason Is A Fat Pig",
         "Website Friggin Tuff Yo",
+        "Ads are not friggin tuff",
         "\"if gravity can pull an apple, then you can pull a bad bih too\". - isacc newton",
         "best website for the unemployed",
         "gurt: yo",
+        "No Ads are friggin tuff",
         "Szvy On Top",
         "fly high wifiskeleton, may he rest in peace 🕊️"
     ];
