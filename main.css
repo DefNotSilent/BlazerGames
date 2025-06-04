@@ -292,7 +292,7 @@ cursor: url('/assets/select.cur'), auto;
     .header-info h1 {
   font-size: 1.2em;
   font-weight: 600;
-  color: var(--text-white);
+  color: #e6e6f0;
 }
 
 .header-info h1 {
