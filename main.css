@@ -111,8 +111,8 @@ nav h1 {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: var(--primary-bg);
-  color: var(--text-white);
+  background-color: #171722;
+  color: #FFFFFF;
   display: flex;
   flex-direction: column;
   justify-content: center;
