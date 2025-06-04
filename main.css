@@ -240,7 +240,7 @@ nav h1 {
 }
 
 .smallahhtext, #output {
-  color: #FFFFF;
+  color: #e6e6f0;
   font-family: notitle;
   font-size: 30px;
   text-align: center;
@@ -248,7 +248,7 @@ nav h1 {
 
 .motd {
   margin-bottom: -20px;
-  color: #FFFFF;
+  color: #e6e6f0;
   font-family: notitle;
   font-size: 45px;
   text-align: center;
