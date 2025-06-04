@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "808 = essentially a crashout",
         "I'm actually sped - said The Fat Pig",
         "geeked vs locked in",
-        "Mason A Fat Pig",
+        "Mason Is A Fat Pig",
         "Website Friggin Tuff Yo",
         "\"if gravity can pull an apple, then you can pull a bad bih too\". - isacc newton",
         "best website for the unemployed",
